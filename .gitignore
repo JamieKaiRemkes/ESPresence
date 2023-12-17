@@ -1,0 +1,14 @@
+# Kicad stuff
+fp-info-cache
+fp-lib-table
+sym-lib-table
+
+*-backups
+*-bak
+*.bak
+
+Fab
+Gerber
+*.zip
+
+.DS_Store
